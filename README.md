@@ -74,7 +74,7 @@
 
 - 𝙲𝚕𝚘𝚗𝚎 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘. 
 
-`git clone https://github.com/D3KRISH/D3vilUserbot.git`
+`git clone https://github.com/Rishabhuki/D3vilUserbot.git`
 - 𝙾𝚙𝚎𝚗 𝙲𝚕𝚘𝚗𝚎𝚍 𝙵𝚘𝚕𝚍𝚎𝚛.
 
 `cd D3vilUserbot`
